@@ -1,1 +1,3 @@
-# orthodox_calendar
+# Автоматический генерируемый календарь православных постов и праздников для импорта в Google calendar
+Календарь праздников - https://calendar.google.com/calendar/u/0?cid=NTFhYWE1YjMwZDcxNzExYWU5NzEwZmZjNmRiNjQ1NTgzNmVkMjA1Mjk4NmIyZGYzOTI5NTYzYzBhZjJhZmY0ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+Календарь постов - https://calendar.google.com/calendar/u/0?cid=MDE5YmY1MjZjMDU0Y2Y2NDQ3Y2E3YzdjMGEwZWIyZWNkNTM5NzlkMWFkNTRlYmJiYjJiNjA2OTQyZjQ2NWQwM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t
